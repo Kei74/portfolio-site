@@ -1,0 +1,40 @@
+{
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Example",
+      "year": "2020"
+    },
+    {
+      "degree": "Master of Science in Software Engineering",
+      "institution": "University of Example",
+      "year": "2022"
+    }
+  ],
+  "workExperience": [
+    {
+      "jobTitle": "Software Developer",
+      "company": "Tech Company A",
+      "duration": "2020 - 2021",
+      "responsibilities": [
+        "Developed web applications",
+        "Collaborated with cross-functional teams"
+      ]
+    },
+    {
+      "jobTitle": "Senior Software Engineer",
+      "company": "Tech Company B",
+      "duration": "2021 - Present",
+      "responsibilities": [
+        "Led development projects",
+        "Mentored junior developers"
+      ]
+    }
+  ],
+  "hobbies": [
+    "Coding",
+    "Cycling",
+    "Photography",
+    "Reading"
+  ]
+}

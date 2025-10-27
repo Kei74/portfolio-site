@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# user specific data
+/src/data/data.json
+/src/data/about.json
+/src/data/projects.json
