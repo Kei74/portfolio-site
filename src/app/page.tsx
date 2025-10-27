@@ -19,8 +19,8 @@ const Home = async () => {
   return (
     <Container maxWidth="sm" sx={{ textAlign: 'center', mt: 5 }}>
       <Avatar
-        alt="P"
-        src="https://picsum.photos/seed/profile/100"
+        alt="Alt P"
+        src={data.image}
         sx={{ width: 100, height: 100, margin: '0 auto' }}
       />
       <Typography variant="h4" gutterBottom sx={{ mt: 2 }}>
